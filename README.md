@@ -21,7 +21,5 @@ Welcome to my GitHub profile! I'm Samuel Khalaf, a backend developer specializin
 - **Tools:** Git, Composer, Ubuntu
 
 ## 📫 Connect With Me
-
-- GitHub: [Samuel Khalaf](https://github.com/SamuelKhalaf)
 - LinkedIn: [samuel-khalaf](https://www.linkedin.com/in/samuel-khalaf-273734215)
 - Email: [eng.samuel.khalaf@gmail.com](mailto:eng.samuel.khalaf@gmail.com)
